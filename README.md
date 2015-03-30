@@ -1,2 +1,3 @@
 # DAQ_CODE
-FSAE Data Acquisition software
+
+FSAE Data Acquisition Software
